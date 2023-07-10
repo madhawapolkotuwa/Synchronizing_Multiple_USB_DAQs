@@ -44,11 +44,6 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 This project is licensed under the [MIT License](LICENSE).
 
-### Acknowledgments
-
-- The code in this project draws inspiration from [source/reference].
-- Special thanks to [contributor/acknowledgment] for their valuable contributions.
-
 ### References
 
 - [NI-DAQmx driver documentation](https://www.ni.com/en-in/support/documentation/drivers-and-updates/drivers/ni-daqmx.html)
